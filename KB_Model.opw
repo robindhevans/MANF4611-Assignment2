@@ -1,0 +1,21 @@
+[RESOURCES]
+Operator
+[VARIABLES]
+OvenSetup.NumberOut
+FlavourCheck.NumberOut False
+vBatchSize
+BespokeOrders.NumberOut
+Before 1pm.NumberOut False
+OvenSetup.NumberIn
+RecipePreparation and Preheat.NumberOut
+RecipePreparation and Preheat.NumberIn
+createInventoryOrders.NumberOut
+FlavourCheck.NumberOut True
+Preheat.NumberIn
+vCurrentFlavour
+Separate 2.NumberOut Orig
+bespokePlusOrders.NumberOut
+Dispose 3.NumberOut
+Batch in 10.NumberOut
+Before 1pm.NumberOut True
+Preheat.NumberOut
